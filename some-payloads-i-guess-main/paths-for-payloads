@@ -30,7 +30,7 @@
 /etc/nginx/conf.d/.htpasswd
 
 
-#Windows
+# Windows
  Common web app files:
 
     c:\inetpub\wwwroot\index.asp - And other common variations, also check for any other files you can browse to.
@@ -45,3 +45,6 @@ A quick pair for permissions, if you can read these it shows you can read files 
     c:\documents and settings\administrator\desktop\desktop.ini
 
 /WINDOWS/win.ini
+
+# PHP
+php.ini
