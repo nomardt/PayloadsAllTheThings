@@ -1,0 +1,4 @@
+# Login
+
+Dork site:=.*.*.wur.nl inurl:login | inurl:signin | intitle:Login | intitle:”sign in” | inurl:auth
+Dork site:=.*.*.your_target.com inurl:login | inurl:signin | intitle:Login | intitle:”sign in” | inurl:auth
